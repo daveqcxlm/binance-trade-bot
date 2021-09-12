@@ -156,7 +156,7 @@ ETH - 0x331b5ee2d4757818de03ab72afd214a5ad16ea65
 XMR - 8BCyircMxwQ4X9yx3SHgNvCtQFWw1hFCESF132QyvvwrFrGsEnapQ9Yiwcr1sPnqznWuSspPaM7HjFLFc8e1pNXXTh3r45c
 -
 LTC - LYbNJBGZvj5N9yuKCycGE7fDMhcJaHguSc
-
+-
 ## Join the Chat
 
 -   **Discord**: [Invite Link](https://discord.gg/m4TNaxreCN)
